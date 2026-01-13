@@ -1,0 +1,5 @@
+pdfplumber
+pypdf
+pandas
+python-slugify
+PyYAML

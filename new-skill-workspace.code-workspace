@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Nasuni"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "Nasuni"
+	}
+}
